@@ -3,9 +3,18 @@
 
 ## 2025 Season
 
+### Vegetables
+
 Tomatoes
 - Cherry
 - Grape
+
+## Fruit
+
+- Pears
+- Apples (Fuji, Honeycrisp, Granny Smith)
+- Strawberry
+
 
 ## 2024 Season
 
