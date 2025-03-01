@@ -1,5 +1,12 @@
 # Garden Plan 🌱
 
+
+## 2025 Season
+
+Tomatoes
+- Cherry
+- Grape
+
 ## 2024 Season
 
 ![IMG_0996](https://github.com/user-attachments/assets/1c46db4b-5a1e-455b-b99c-098f46a54ea2)
@@ -31,4 +38,8 @@ Broccolini
 - It didn't produce many side chutes.
 
 Tomato: Heirloom Purple
-- One of the
+- One of the plants ended up taking over the far end of the garden.
+- These tomatoes struggled with rot and marbling and got heat stroke.
+- The taste of beefsteak tomatoes is way better.
+- Maybe don't pursue heirloom tomatoes next year?
+- Consider instead roma or cherry
