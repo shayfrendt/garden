@@ -9,7 +9,7 @@ Tomatoes
 - Cherry
 - Grape
 
-## Fruit
+### Fruit
 
 - Pears
 - Apples (Fuji, Honeycrisp, Granny Smith)
