@@ -2,8 +2,11 @@
 
 ## 2024 Season
 
+![IMG_0996](https://github.com/user-attachments/assets/1c46db4b-5a1e-455b-b99c-098f46a54ea2)
+
 Arugula
-- Microgreens were fine, but these grew quickly and then were done. I'd like to try a different variety that will last longer.
+- Microgreens were fine, but these grew quickly and then were done. I'd like to
+ try a different variety that will last longer.
 - The full size was too bitter
 
 Basil: Sweet
